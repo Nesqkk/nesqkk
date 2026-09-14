@@ -204,11 +204,11 @@ Learn → Build → Break → Fix → Improve → Repeat
 
 # 🌐 Conecte-se comigo
 
-💼 **LinkedIn:** [Meu LinkedIn](SEU_LINKEDIN)
+💼 **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/joãolopesdev/)
 
-🎥 **YouTube:** [Meu YouTube](SEU_YOUTUBE)
+🎥 **YouTube:** [Meu YouTube](https://www.youtube.com/@DevNesqk)
 
-📸 **Instagram:** [Meu Instagram](SEU_INSTAGRAM)
+📸 **Instagram:** [Meu Instagram](https://www.instagram.com/devnesqk/)
 
 ---
 
